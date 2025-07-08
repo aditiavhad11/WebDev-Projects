@@ -125,11 +125,10 @@ select {
 }
  #para1 {
     color: white;
-    position: absolute;
-    font-size: 1.7rem;
+    font-size: 1.6rem;
     margin-left: 12rem;
-    top: 75rem;
     font-family: Inter;
+    margin-top: 0.9rem;
 }
 
 #frame2 {
@@ -191,7 +190,7 @@ select {
 #para3 {
     color: white;
     position: absolute;
-    left: 39.8rem;
+    left: 41rem;
     top: 189rem;
     font-size: 1.7rem;
 }
