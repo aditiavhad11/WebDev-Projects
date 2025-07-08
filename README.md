@@ -11,7 +11,7 @@ This project is designed as a creative showcase for frontend design using gradie
 
 ## 📂 Project Structure
 
-📁 images/ → All image assets
-📄 index.html → Main HTML page
+📁 images/ → All image assets <br>
+📄 index.html → Main HTML page <br>
 🎨 style.css → CSS styling and gradients
 
